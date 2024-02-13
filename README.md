@@ -7,7 +7,23 @@ O CarnaCode é um evento online e gratuito que acontece nos dias 10, 11, 12 e 13
 👉 https://go.balta.io/carnacode-2024
 
 ## Sobre o Desafio
+
 Neste segundo desafio, desenvolvemos uma aplicação completa para calcular o IMC (Índice de Massa Muscular). Aprendemos conceitos como Razor e Blazor, bem como rotas, componentes e outros itens do ASP.NET.
+
+## Assuntos a pesquisar
+
+- Localstorage
+- Componentes
+- JsInterop
+- Data Bindings
+- Validação de Formulários
+- Child Content
+
+## Desafios
+
+Fácil: Implementar o cálculo do IMC e histórico.
+Médio: Salvar as informações no localstorage.
+Avançado: Componentizar o cálculo do IMC.
 
 ### Tecnologias Utilizadas
 * ASP.NET
@@ -15,7 +31,13 @@ Neste segundo desafio, desenvolvemos uma aplicação completa para calcular o IM
 * Blazor
 
 ### Ferramentas Utilizadas
-* << INFORMAR A IDE UTILIZADA >>
+* Visual Studio
 
 # Recompensa
 <img src="https://baltaio.blob.core.windows.net/temp/carnacode-badge-desafio-02.png" alt="CarnaCode 2024 - Segundo Desafio Completo" width="256" />
+
+ ###  Grupo 01
+* [Eliane Henriqueta](https://github.com/Elianehenri)
+* [Pablo Alessandre](https://github.com/pabloalessandre)
+* [Gabriele Felice](https://github.com/gabi-felice-dev)
+* [Julio](https://github.com/mitsugui)
